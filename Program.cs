@@ -16,7 +16,7 @@
             // Call the method to calculate and display the diameter of the circle.
             circle.GetDiameter();
             
-            // Call the method to calculate and display the surface area of the sphere.
+            // Call the method to calculate and display the surface area if the circle was a sphere.
             circle.GetSphereArea();
             
             // Call the method to calculate and display the hypotenuse of the triangle.
