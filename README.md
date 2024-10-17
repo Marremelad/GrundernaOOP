@@ -1,4 +1,4 @@
-# OOP Basics
+# OOP Basics 🌱
 
 ## Description
 This program was made with the purpose of practicing OOP.
