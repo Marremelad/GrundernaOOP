@@ -4,7 +4,7 @@
 This program was made with the purpose of practicing OOP.
 
 ### Features
-This program outputs text based on some parameters in Program.cs.
+This program simply outputs text based on some parameters in Program.cs.
 
 ### Application demo
 ```console
