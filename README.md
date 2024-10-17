@@ -6,7 +6,7 @@ This program was made with the purpose of practicing OOP.
 ### Features
 This program simply outputs text based on some parameters in Program.cs.
 
-### Console Output
+### Console output
 ```console
 Circle Area: 78,53981633974483
 Circle diameter: 10
@@ -18,7 +18,7 @@ Area of a triangle with the base 3 and height 15,37: 23,055
 ### Requirements
 * .NET 8 or higher
 
-### Get Started
+### Get started
 If you are using Visual Studio or any other IDE with an integrated repo-cloning function use it with this URL - https://github.com/Marremelad/GrundernaOOP 
 then open the solution and run the program.
 
