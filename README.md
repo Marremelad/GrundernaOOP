@@ -6,7 +6,7 @@ This program was made with the purpose of practicing OOP.
 ### Features
 This program simply outputs text based on some parameters in Program.cs.
 
-### Console output
+### Console Output
 ```console
 Circle Area: 78,53981633974483
 Circle diameter: 10
