@@ -18,7 +18,7 @@ Area of a triangle with the base 3 and height 15,37: 23,055
 ### Requirements
 * .NET 8 or higher
 
-### Get started
+### Get Started
 If you are using Visual Studio or any other IDE with an integrated repo-cloning function use it with this URL - https://github.com/Marremelad/GrundernaOOP 
 then open the solution and run the program.
 
